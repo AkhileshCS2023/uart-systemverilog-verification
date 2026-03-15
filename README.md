@@ -107,5 +107,5 @@ Through this project the following verification concepts are demonstrated:
 
 ## Author
 
-Akhilesh
-Electronics and Communication Engineering
+Akhilesh C. Shetti
+Future Design Verification Engineer
